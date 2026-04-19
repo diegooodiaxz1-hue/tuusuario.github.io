@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Max7 Auth - Precios</title>
+
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #0a0a0a, #111);
+    color: white;
+    text-align: center;
+}
+
+header {
+    padding: 30px;
+}
+
+h1 {
+    font-size: 28px;
+    letter-spacing: 2px;
+}
+
+.sub {
+    color: #00ffcc;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.card {
+    background: rgba(255,255,255,0.05);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    padding: 25px;
+    margin: 15px;
+    width: 300px;
+    border: 1px solid rgba(0,255,200,0.2);
+    box-shadow: 0 0 25px rgba(0,255,200,0.15);
+    transition: 0.3s;
+    position: relative;
+}
+
+.card:hover {
+    transform: translateY(-10px) scale(1.03);
+    box-shadow: 0 0 40px rgba(0,255,200,0.4);
+}
+
+.tag {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    background: #00ff99;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+.price {
+    margin: 8px 0;
+    font-size: 18px;
+    color: #00ffcc;
+}
+
+.btn {
+    display: block;
+    margin-top: 15px;
+    padding: 12px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.whatsapp {
+    background: #00ff99;
+    color: black;
+}
+
+.instagram {
+    background: #222;
+    border: 1px solid #00ff99;
+    color: #00ff99;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
+
+.footer {
+    margin-top: 40px;
+    padding: 25px;
+    background: #0a0a0a;
+    font-size: 14px;
+    color: #ccc;
+}
+
+</style>
+
+</head>
+<body>
+
+<header>
+    <h1>🥷🏻🔥 PRECIOS OFICIALES 🔥🥷🏻</h1>
+    <div class="sub">MAX7 AUTH | Activación rápida ⚡</div>
+</header>
+
+<div class="container">
+
+<div class="card">
+    <h2>📱 DRIP CLIENT</h2>
+    <p class="price">1 Día: $3</p>
+    <p class="price">3 Días: $6</p>
+    <p class="price">7 Días: $10</p>
+    <p class="price">30 Días: $20</p>
+    <div class="tag">OFERTA 🔥</div>
+    <a class="btn whatsapp" href="https://wa.me/526361169553">Comprar</a>
+    <a class="btn instagram" href="https://instagram.com/max7auth">Instagram</a>
+</div>
+
+<div class="card">
+    <h2>✨ FLUORITE</h2>
+    <p class="price">1 Día: $9</p>
+    <p class="price">7 Días: $25</p>
+    <p class="price">30 Días: $55 ✔</p>
+    <div class="tag">NUEVO</div>
+    <a class="btn whatsapp" href="https://wa.me/526361169553">Comprar</a>
+    <a class="btn instagram" href="https://instagram.com/max7auth">Instagram</a>
+</div>
+
+<div class="card">
+    <h2>💎 HOLOGRAMA VIP</h2>
+    <p class="price">Acceso permanente: $12</p>
+    <div class="tag">VIP</div>
+    <a class="btn whatsapp" href="https://wa.me/526361169553">Comprar</a>
+    <a class="btn instagram" href="https://instagram.com/max7auth">Instagram</a>
+</div>
+
+</div>
+
+<div class="footer">
+🌎 Métodos de pago: Transferencia | Mercado Pago | Binance <br><br>
+
+📍 Disponible en LATAM / USA <br><br>
+
+📩 Contacto: +52 6361169553 <br>
+IG: max7auth <br><br>
+
+⚡ Respuesta rápida | ✔️ Activación segura
+</div>
+
+</body>
+</html>
